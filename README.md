@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a programmer, who programs in P5.JS (based on The Processing Java Environment and a JavaScript library), Python and Pygame Zero, use HTML5 a lot, and have programming as a hobby.
+
+I am heavily inspired by [The Coding Train](https://www.youtube.com/user/shiffman), who also codes in P5.JS and Processing, and does frequent 'Coding challenges'.
+
+You should check him out.
