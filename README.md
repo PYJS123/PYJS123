@@ -20,3 +20,5 @@ I am a programmer, who programs in P5.JS (based on The Processing Java Environme
 I am heavily inspired by [The Coding Train](https://www.youtube.com/user/shiffman), who also codes in P5.JS and Processing, and does frequent 'Coding challenges'.
 
 You should check him out.
+
+EARLY 2021: Recently started making [Flutter](https://flutter.dev) apps in [Dart](https://dart.dev)! Soon, I'll make a life sim with it.
