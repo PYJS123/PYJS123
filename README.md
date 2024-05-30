@@ -22,3 +22,5 @@ I am heavily inspired by [The Coding Train](https://www.youtube.com/user/shiffma
 You should check him out.
 
 EARLY 2021: Recently started making [Flutter](https://flutter.dev) apps in [Dart](https://dart.dev)! Soon, I'll make a life sim with it.
+
+MID 2024: I don't know what I do anymore. I barely even use GitHub anymore, but here we are. Life exists, and that's apparently a roadblock in my GitHub journey, but I got a digger
