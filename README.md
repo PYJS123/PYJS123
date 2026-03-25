@@ -14,13 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a student, interested in eventually studying Computer Science. I can code in C#, JavaScript and Python (the former I am still getting used to).
 
-I am a programmer, who programs in P5.JS (based on The Processing Java Environment and a JavaScript library), Python and Pygame Zero, use HTML5 a lot, and have programming as a hobby.
+One thing I like is making my own implementations of things that already exist, like [Priority Queues with an underlying min-heap structure](https://github.com/PYJS123/priority-queue-min-heap-pyjs123)- I get to understand why things are made the way they are and at the same time get the joy out of getting stuck and figuring out how to do something.
 
-I am heavily inspired by [The Coding Train](https://www.youtube.com/user/shiffman), who also codes in P5.JS and Processing, and does frequent 'Coding challenges'.
-
-You should check him out.
-
-EARLY 2021: Recently started making [Flutter](https://flutter.dev) apps in [Dart](https://dart.dev)! Soon, I'll make a life sim with it.
-
-MID 2024: I don't know what I do anymore. I barely even use GitHub anymore, but here we are. Life exists, and that's apparently a roadblock in my GitHub journey, but I got a digger
+I also make visual things from time to time, usually with p5.js (which is how I started learning JavaScript)- my favourite visual thing that I've made recently is probably my [falling sand program](https://github.com/PYJS123/pyjs123-falling-sand), but I also enjoyed making [this orbit program](https://editor.p5js.org/samuel.pau504/full/e0EOBjRUG)- I got to use what I learnt in Further Mechanics to make a cool sketch!
